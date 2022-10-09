@@ -388,11 +388,12 @@ h2{
     background-size: cover;
   }
   .item-10{
-    background: url('./img/cadastros.PNG');
+    background: url('./img/cadastros\ p.png');
     background-size: contain;
   }
+  
   .item-11{
-    background: url('./img/lista\ dos\ produtos.PNG');
+    background: url('./img/lista\ dos\ produtos\ p.png');
     background-size: contain;
   }
   *:target ~ .item-1{
